@@ -1,0 +1,30 @@
+span{
+    text-decoration:underline;
+    font-weight: bold;
+}
+.border{
+    border-style: solid;
+    border-width: 2px;
+    width: 450px;
+    height: 550px;
+}
+.text{
+    font-size: 25px;
+    background-color: #808080;
+    overflow: scroll;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    height:300px;
+}
+img{
+    width: 400px;
+    height: 150px;
+}
+h1{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.container{
+    margin:5px;
+}
